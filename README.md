@@ -15,7 +15,7 @@
     
     - [⭐04 Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
     
-    - [⭐04-01 Exploring Angular DOM manipulation techniques using ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)([探索 Angular 使用 ViewContainerRef 技术操作 DOM](https://zhuanlan.zhihu.com/p/56224354)
+    - [⭐04-01 Exploring Angular DOM manipulation techniques using ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)([探索 Angular 使用 ViewContainerRef 技术操作 DOM](https://zhuanlan.zhihu.com/p/56224354))
     
     - [05 The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
     
@@ -35,14 +35,16 @@
     
     - [⭐10 The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)
     
-    - [11 在Angular中使用DOM：新认知以及优化技术](https://zhuanlan.zhihu.com/p/56224620)
+    - [Working with DOM in Angular: unexpected consequences and optimization techniques](https://blog.angularindepth.com/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques-682ac09f6866)([11 在Angular中使用DOM：新认知以及优化技术](https://zhuanlan.zhihu.com/p/56224620))
     
     - [12 Angular Change Detection - How Does It Really Work?](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
     
-    - [13 Angular Ivy change detection execution: are you prepared?](https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c)
+    - [13 Creatively Decouple ngOnChanges](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
     
-    - [14 Creatively Decouple ngOnChanges](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
+    - [The difference between NgDoCheck and AsyncPipe in OnPush components](https://blog.angularindepth.com/the-difference-between-ngdocheck-and-asyncpipe-in-onpush-components-4918ec4b29d4)
 
+    - [What every front-end developer should know about change detection in Angular and React](https://blog.angularindepth.com/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react-508f83f58c6a)
+    
 - 响应式编程(`RXJS`)
     - [How to RxJS in Angular](https://blog.angularindepth.com/how-to-rxjs-in-angular-1037908e82a5) 
 
@@ -52,8 +54,27 @@
     
     - [The Best Way To Unsubscribe RxJS Observables In The Angular Applications!](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0)
     
-    - Marble Test
+    - [Here is what I’ve learn about groupBy operator by reading RxJS sources](https://blog.angularindepth.com/those-hidden-gotchas-within-rxjs-7d5c57406041)
+    
+    - [The Ultimate Answer To The Very Common Angular Question: subscribe() vs | async Pipe](https://blog.angularindepth.com/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794)
+    
+    - [RxJS: How to Observe an Object](https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571)
+    
+    - [Power of RxJS when using exponential backoff](https://blog.angularindepth.com/power-of-rxjs-when-using-exponential-backoff-a4b8bde276b0)
+    
+    - [RxJS: Avoiding takeUntil Leaks](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
+    
+    - [RxJS: Combining Operators](https://blog.angularindepth.com/rxjs-combining-operators-397bad0628d0)
+    
+    - [A modern solution to lazy loading images using Intersection Observer](https://blog.angularindepth.com/a-modern-solution-to-lazy-loading-using-intersection-observer-9280c149bbc)
+    
+    - [RxJS: When to Use switchMap](RxJS: When to Use switchMap)
+    
+    - [RxJS: Avoiding switchMap-Related Bugs](https://blog.angularindepth.com/switchmap-bugs-b6de69155524)
+    
+    - Testing
         - [如何「畫圖」寫測試 - RxJS Marble Test](https://blog.jerry-hong.com/speaking/rxjs-marble-testing/)
+        - [RxJS: Testing with Fake Time](https://blog.angularindepth.com/rxjs-testing-with-fake-time-94114271eed2)
 
 - 编译器(`compiler`)
     - [Automatically upgrade lazy-loaded Angular modules for Ivy!](https://blog.angularindepth.com/automatically-upgrade-lazy-loaded-angular-modules-for-ivy-e760872e6084)
@@ -64,13 +85,33 @@
     
     - [Building an AOT Friendly Dynamic Content Outlet in Angular](https://blog.angularindepth.com/building-an-aot-friendly-dynamic-content-outlet-in-angular-59c1a96171a)
     
+    - [My Adventures Running Angular Ivy inside StackBlitz: Yes, It Is Possible!](https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4)
     
+    - [Inside Ivy: Exploring the New Angular Compiler](https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1)
+    
+    - [Angular Ivy change detection execution: are you prepared?](https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c)
+    
+    - [Ivy engine in Angular: first in-depth look at compilation, runtime and change detection](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
+
 - `HttpClient`
     - [Top 10 ways to use Interceptors in Angular](https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6)
 
 - 路由(`router`)
     - [Improved Navigation in Angular 7 with switchMap](https://blog.angularindepth.com/new-in-angular-7-better-navigations-79267db452c0) 
 
+    - [Angular Router Series: Pillar 3 — Lazy Loading, AOT, and Preloading](https://blog.angularindepth.com/angular-router-series-pillar-3-lazy-loading-aot-and-preloading-a23a046c51f0)
+    
+    - [How to reuse common layouts in Angular using Router](https://blog.angularindepth.com/angular-routing-reusing-common-layout-for-pages-from-different-modules-440a23f86b57)
+    
+    - [Angular Router Series: Pillar 2 — Understanding The Router’s Navigation Cycle](https://blog.angularindepth.com/angular-router-series-pillar-2-navigation-d050286bf4fa)
+    
+    - [Angular Router Series: Secondary Outlets Primer](https://blog.angularindepth.com/angular-router-series-secondary-outlets-primer-139206595e2)
+    
+    - [The Three Pillars of the Angular Router — Router States and URL Matching](https://blog.angularindepth.com/angular-routing-series-pillar-1-router-states-and-url-matching-12520e62d0fc)
+    
+    - [The Three Pillars of Angular Routing. Angular Router Series Introduction.](https://blog.angularindepth.com/the-three-pillars-of-angular-routing-angular-router-series-introduction-fb34e4e8758e)
+    
+    
 - `Angular`
     - [Angular Context: Easy Data-Binding for Nested Component Trees and the Router Outlet](https://blog.angularindepth.com/angular-context-easy-data-binding-for-nested-component-trees-and-the-router-outlet-a977efacd48)
 
@@ -88,11 +129,52 @@
     
     - [Debug Angular apps in production without revealing source maps](https://blog.angularindepth.com/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85)
     
+    - [Improved UX with Ghost Elements + Angular 7 Animations](https://blog.angularindepth.com/https-medium-com-thomasburleson-animated-ghosts-bfc045a51fba)
+    
+    - [Angular Smart 404 Page](https://blog.angularindepth.com/angular-smart-404-page-85a45b109fd8)
+    
+    - [Container Components with Angular](https://blog.angularindepth.com/container-components-with-angular-11e4200f8df)
+    
+    - [Here is why appendChild moves a DOM node between parents](https://blog.angularindepth.com/here-is-why-appendchild-moves-a-dom-node-instead-of-cloning-it-f8ef7a31735c)
+    
+    - [Policy-Based Client-Side Encryption in Angular](https://blog.angularindepth.com/policy-based-client-side-encryption-in-angular-b47068b26d50)
+    
+    - [A curious case of the @Host decorator and Element Injectors in Angular](https://blog.angularindepth.com/a-curios-case-of-the-host-decorator-and-element-injectors-in-angular-582562abcf0a)
+    
+    - [Working with DOM in Angular: unexpected consequences and optimization techniques](https://blog.angularindepth.com/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques-682ac09f6866)
+    
+    - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
+    
 - `Angular Library`
     - [How to Build a Component Library with Angular and Storybook](https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976)
 
+    - [The Angular DevOps Series: Semantically release your Angular library](https://blog.angularindepth.com/the-angular-devops-series-semantically-release-your-angular-library-7d78afb4c845)
+    
+    - [The Angular Library Series — Publishing](https://blog.angularindepth.com/the-angular-library-series-publishing-ce24bb673275)
+    
+    - [The Angular Library Series - Building and Packaging](https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121)
+    
+    - [The Angular Library Series - Creating a Library with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
+    
+    - 
 - `CDK`
     - [Tooltip with Angular CDK](https://blog.angularindepth.com/building-tooltips-for-angular-3cdaac16d138)
+    
+    - [Creating a toast service with Angular CDK](https://blog.angularindepth.com/creating-a-toast-service-with-angular-cdk-a0d35fd8cc12)
+    
+    - [Building Interactive Lists with the new Angular 7 Drag and Drop tool](https://blog.angularindepth.com/building-interactive-lists-with-the-new-angular-7-drag-and-drop-tool-5f2402f8cb27)
+    
+    - [Exploring Drag and Drop with the new Angular Material CDK](https://blog.angularindepth.com/exploring-drag-and-drop-with-the-angular-material-cdk-2e0237857290)
+    
+    
+- 其他
+    - [The Angular DevOps Series: CT/CI with Travis CI and GitHub Pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
+    
+    - [Angular Unit Testing performance](https://blog.angularindepth.com/angular-unit-testing-performance-34363b7345ba)
+    
+    - [Gestures in an Angular Application](https://blog.angularindepth.com/gestures-in-an-angular-application-dde71804c0d0)
+    
+    - [Angular and Internet Explorer](https://blog.angularindepth.com/angular-and-internet-explorer-5e59bb6fb4e9)
     
 ## `A deep dive in the Vue.js source code`(深入了解`Vue.js`源代码)
 本系列逐行检查整个`Vue.js`源代码。
