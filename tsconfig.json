@@ -20,6 +20,6 @@
     "suppressImplicitAnyIndexErrors": true
   },
   "include": [
-    "./src/**/*"
+    "./fetcher/**/*"
   ]
 }
