@@ -45,6 +45,8 @@
 
     - [What every front-end developer should know about change detection in Angular and React](https://blog.angularindepth.com/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react-508f83f58c6a)
     
+    - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)
+    
 - 响应式编程(`RXJS`)
     - [How to RxJS in Angular](https://blog.angularindepth.com/how-to-rxjs-in-angular-1037908e82a5) 
 
@@ -68,9 +70,15 @@
     
     - [A modern solution to lazy loading images using Intersection Observer](https://blog.angularindepth.com/a-modern-solution-to-lazy-loading-using-intersection-observer-9280c149bbc)
     
-    - [RxJS: When to Use switchMap](RxJS: When to Use switchMap)
+    - [RxJS: When to Use switchMap](https://blog.angularindepth.com/when-to-use-switchmap-dfe84ac5a1ff)
     
     - [RxJS: Avoiding switchMap-Related Bugs](https://blog.angularindepth.com/switchmap-bugs-b6de69155524)
+    
+    - [RxJS: Understanding Subjects](https://blog.angularindepth.com/rxjs-understanding-subjects-5c585188c3e1)
+    
+    - [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
+    
+    - [RxJS: How to Use refCount](https://blog.angularindepth.com/rxjs-how-to-use-refcount-73a0c6619a4e)
     
     - Testing
         - [如何「畫圖」寫測試 - RxJS Marble Test](https://blog.jerry-hong.com/speaking/rxjs-marble-testing/)
@@ -92,10 +100,15 @@
     - [Angular Ivy change detection execution: are you prepared?](https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c)
     
     - [Ivy engine in Angular: first in-depth look at compilation, runtime and change detection](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
-
+    - [Dynamically Loading Components with Angular CLI](https://blog.angularindepth.com/dynamically-loading-components-with-angular-cli-92a3c69bcd28)
+    
+    - [Gentle introduction into compilers. Part 1: Lexical analysis and Scanner](https://blog.angularindepth.com/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner-733246be6738)
+    
 - `HttpClient`
     - [Top 10 ways to use Interceptors in Angular](https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6)
 
+    - [Insider’s guide into interceptors and HttpClient mechanics in Angular](https://blog.angularindepth.com/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf)
+    
 - 路由(`router`)
     - [Improved Navigation in Angular 7 with switchMap](https://blog.angularindepth.com/new-in-angular-7-better-navigations-79267db452c0) 
 
@@ -145,6 +158,8 @@
     
     - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
     
+    - [The essential difference between pure and impure pipes in Angular and why that matters](https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068)
+    
 - `Angular Library`
     - [How to Build a Component Library with Angular and Storybook](https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976)
 
@@ -166,6 +181,7 @@
     
     - [Exploring Drag and Drop with the new Angular Material CDK](https://blog.angularindepth.com/exploring-drag-and-drop-with-the-angular-material-cdk-2e0237857290)
     
+    - [Angular CDK Portals](https://blog.angularindepth.com/angular-cdk-portals-b02f66dd020c)
     
 - 其他
     - [The Angular DevOps Series: CT/CI with Travis CI and GitHub Pages](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
@@ -175,6 +191,8 @@
     - [Gestures in an Angular Application](https://blog.angularindepth.com/gestures-in-an-angular-application-dde71804c0d0)
     
     - [Angular and Internet Explorer](https://blog.angularindepth.com/angular-and-internet-explorer-5e59bb6fb4e9)
+    
+    - [I reverse-engineered Zones (zone.js) and here is what I’ve found](https://blog.angularindepth.com/i-reverse-engineered-zones-zone-js-and-here-is-what-ive-found-1f48dc87659b)
     
 ## `A deep dive in the Vue.js source code`(深入了解`Vue.js`源代码)
 本系列逐行检查整个`Vue.js`源代码。
