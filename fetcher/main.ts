@@ -14,7 +14,7 @@ let urls = readme.match(/https:\/\/blog\.angularindepth\.com\/[\w-]+/g);
 console.log('🍮 获取所有已下载的文件...');
 // 读取 pdf 文件夹，取得所有不带后缀的文件名
 let articles = fs.readdirSync('./pdf')
-    .map(pdf => pdf.substr(0, pdf.indexOf('.')));
+    .map(article => article.substr(0, article.indexOf('.')));
 
 console.log('🍫 获取需要下载的链接...');
 let downloads = urls.filter(url =>
@@ -43,8 +43,10 @@ let filePath = (download) => {
         }
     } catch(e) {
         console.error('❌ 出错啦:', e);
-        fs.writeFileSync(README_PATH, readme);
     }
+
+    // 覆盖readme文件
+    fs.writeFileSync(README_PATH, readme);
 
     console.log(`🔨 本次爬爬结束`);
     await browser.close();
