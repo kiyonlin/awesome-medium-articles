@@ -154,7 +154,7 @@
     
     - [A curious case of the @Host decorator and Element Injectors in Angular](https://blog.angularindepth.com/a-curios-case-of-the-host-decorator-and-element-injectors-in-angular-582562abcf0a)([pdf](./pdf/a-curios-case-of-the-host-decorator-and-element-injectors-in-angular.pdf))
     
-    - [Working with DOM in Angular: unexpected consequences and optimization techniques](https://blog.angularindepth.com/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques-682ac09f6866)
+    - [Working with DOM in Angular: unexpected consequences and optimization techniques](https://blog.angularindepth.com/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques-682ac09f6866)([pdf](./pdf/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques.pdf))
     
     - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)([pdf](./pdf/angular-dependency-injection-and-tree-shakeable-tokens.pdf))
     
