@@ -9,60 +9,60 @@
 - 变更检测(`change detection`)
     - [01 Angular’s $digest is reborn in the newer version of Angular](https://blog.angularindepth.com/angulars-digest-is-reborn-in-the-newer-version-of-angular-718a961ebd3e) ([$digest 在 Angular 中重生](https://zhuanlan.zhihu.com/p/51678868))
     
-    - [02 A gentle introduction into change detection in Angular](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)([关于 Angular 变更检测不那么硬核的介绍](https://zhuanlan.zhihu.com/p/51935121))
+    - [02 A gentle introduction into change detection in Angular](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)([pdf](./pdf/a-gentle-introduction-into-change-detection-in-angular.pdf))([关于 Angular 变更检测不那么硬核的介绍](https://zhuanlan.zhihu.com/p/51935121))
     
-    - [03 Do you still think that NgZone (zone.js) is required for change detection in Angular?](https://blog.angularindepth.com/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef)([Angular的状态变更机制并不一定依赖于NgZone(zone.js)](https://zhuanlan.zhihu.com/p/52413651))
+    - [03 Do you still think that NgZone (zone.js) is required for change detection in Angular?](https://blog.angularindepth.com/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef)([pdf](./pdf/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular.pdf))([Angular的状态变更机制并不一定依赖于NgZone(zone.js)](https://zhuanlan.zhihu.com/p/52413651))
     
-    - [⭐04 Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
+    - [⭐04 Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)([pdf](./pdf/everything-you-need-to-know-about-change-detection-in-angular.pdf))
     
-    - [⭐04-01 Exploring Angular DOM manipulation techniques using ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)([探索 Angular 使用 ViewContainerRef 技术操作 DOM](https://zhuanlan.zhihu.com/p/56224354))
+    - [⭐04-01 Exploring Angular DOM manipulation techniques using ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)([pdf](./pdf/exploring-angular-dom-abstractions.pdf))([探索 Angular 使用 ViewContainerRef 技术操作 DOM](https://zhuanlan.zhihu.com/p/56224354))
     
-    - [05 The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
+    - [05 The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)([pdf](./pdf/the-mechanics-of-dom-updates-in-angular.pdf))
     
-    - [05-01 Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+    - [05-01 Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)([pdf](./pdf/here-is-what-you-need-to-know-about-dynamic-components-in-angular.pdf))
     
-    - [05-02 Here is how to get ViewContainerRef before @ViewChild query is evaluated](https://blog.angularindepth.com/here-is-how-to-get-viewcontainerref-before-viewchild-query-is-evaluated-f649e51315fb)
+    - [05-02 Here is how to get ViewContainerRef before @ViewChild query is evaluated](https://blog.angularindepth.com/here-is-how-to-get-viewcontainerref-before-viewchild-query-is-evaluated-f649e51315fb)([pdf](./pdf/here-is-how-to-get-viewcontainerref-before-viewchild-query-is-evaluated.pdf))
     
-    - [06 The mechanics of property bindings update in Angular](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
+    - [06 The mechanics of property bindings update in Angular](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)([pdf](./pdf/the-mechanics-of-property-bindings-update-in-angular.pdf))
     
-    - [06-01 Here is why you will not find components inside Angular](https://blog.angularindepth.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
+    - [06-01 Here is why you will not find components inside Angular](https://blog.angularindepth.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)([pdf](./pdf/here-is-why-you-will-not-find-components-inside-angular.pdf))
     
-    - [07 Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
+    - [07 Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)([pdf](./pdf/do-you-really-know-what-unidirectional-data-flow-means-in-angular.pdf))
     
-    - [08 Everything you need to know about the `ExpressionChangedAfterItHasBeenCheckedError` error](https://blog.angularindepth.com/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error-e3fd9ce7dbb4)
+    - [08 Everything you need to know about the `ExpressionChangedAfterItHasBeenCheckedError` error](https://blog.angularindepth.com/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error-e3fd9ce7dbb4)([pdf](./pdf/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error.pdf))
     
-    - [⭐09 If you think `ngDoCheck` means your component is being checked -- read this article](https://blog.angularindepth.com/if-you-think-ngdocheck-means-your-component-is-being-checked-read-this-article-36ce63a3f3e5)
+    - [⭐09 If you think `ngDoCheck` means your component is being checked -- read this article](https://blog.angularindepth.com/if-you-think-ngdocheck-means-your-component-is-being-checked-read-this-article-36ce63a3f3e5)([pdf](./pdf/if-you-think-ngdocheck-means-your-component-is-being-checked-read-this-article.pdf))
     
-    - [⭐10 The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)
+    - [⭐10 The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)([pdf](./pdf/the-essential-difference-between-constructor-and-ngoninit-in-angular.pdf))
     
-    - [Working with DOM in Angular: unexpected consequences and optimization techniques](https://blog.angularindepth.com/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques-682ac09f6866)([11 在Angular中使用DOM：新认知以及优化技术](https://zhuanlan.zhihu.com/p/56224620))
+    - [Working with DOM in Angular: unexpected consequences and optimization techniques](https://blog.angularindepth.com/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques-682ac09f6866)([pdf](./pdf/working-with-dom-in-angular-unexpected-consequences-and-optimization-techniques.pdf))([11 在Angular中使用DOM：新认知以及优化技术](https://zhuanlan.zhihu.com/p/56224620))
     
     - [12 Angular Change Detection - How Does It Really Work?](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
     
-    - [13 Creatively Decouple ngOnChanges](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)
+    - [13 Creatively Decouple ngOnChanges](https://blog.angularindepth.com/creatively-decouple-ngonchanges-fab95395cc6e)([pdf](./pdf/creatively-decouple-ngonchanges.pdf))
     
-    - [The difference between NgDoCheck and AsyncPipe in OnPush components](https://blog.angularindepth.com/the-difference-between-ngdocheck-and-asyncpipe-in-onpush-components-4918ec4b29d4)
+    - [The difference between NgDoCheck and AsyncPipe in OnPush components](https://blog.angularindepth.com/the-difference-between-ngdocheck-and-asyncpipe-in-onpush-components-4918ec4b29d4)([pdf](./pdf/the-difference-between-ngdocheck-and-asyncpipe-in-onpush-components.pdf))
 
-    - [What every front-end developer should know about change detection in Angular and React](https://blog.angularindepth.com/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react-508f83f58c6a)
+    - [What every front-end developer should know about change detection in Angular and React](https://blog.angularindepth.com/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react-508f83f58c6a)([pdf](./pdf/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react.pdf))
     
-    - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)
+    - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)([pdf](./pdf/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually.pdf))
     
 - 响应式编程(`RXJS`)
-    - [How to RxJS in Angular](https://blog.angularindepth.com/how-to-rxjs-in-angular-1037908e82a5) 
+    - [How to RxJS in Angular](https://blog.angularindepth.com/how-to-rxjs-in-angular-1037908e82a5)([pdf](./pdf/how-to-rxjs-in-angular.pdf)) 
 
-    - [Why you HAVE to unsubscribe from Observable](https://blog.angularindepth.com/why-you-have-to-unsubscribe-from-observable-92502d5639d0)
+    - [Why you HAVE to unsubscribe from Observable](https://blog.angularindepth.com/why-you-have-to-unsubscribe-from-observable-92502d5639d0)([pdf](./pdf/why-you-have-to-unsubscribe-from-observable.pdf))
 
-    - [RxJS: What’s Changed with shareReplay?](https://blog.angularindepth.com/rxjs-whats-changed-with-sharereplay-65c098843e95)
+    - [RxJS: What’s Changed with shareReplay?](https://blog.angularindepth.com/rxjs-whats-changed-with-sharereplay-65c098843e95)([pdf](./pdf/rxjs-whats-changed-with-sharereplay.pdf))
     
-    - [The Best Way To Unsubscribe RxJS Observables In The Angular Applications!](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0)
+    - [The Best Way To Unsubscribe RxJS Observables In The Angular Applications!](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0)([pdf](./pdf/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications.pdf))
     
-    - [Here is what I’ve learn about groupBy operator by reading RxJS sources](https://blog.angularindepth.com/those-hidden-gotchas-within-rxjs-7d5c57406041)
+    - [Here is what I’ve learn about groupBy operator by reading RxJS sources](https://blog.angularindepth.com/those-hidden-gotchas-within-rxjs-7d5c57406041)([pdf](./pdf/those-hidden-gotchas-within-rxjs.pdf))
     
-    - [The Ultimate Answer To The Very Common Angular Question: subscribe() vs | async Pipe](https://blog.angularindepth.com/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794)
+    - [The Ultimate Answer To The Very Common Angular Question: subscribe() vs | async Pipe](https://blog.angularindepth.com/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794)([pdf](./pdf/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates.pdf))
     
-    - [RxJS: How to Observe an Object](https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571)
+    - [RxJS: How to Observe an Object](https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571)([pdf](./pdf/rxjs-how-to-observe-an-object.pdf))
     
-    - [Power of RxJS when using exponential backoff](https://blog.angularindepth.com/power-of-rxjs-when-using-exponential-backoff-a4b8bde276b0)
+    - [Power of RxJS when using exponential backoff](https://blog.angularindepth.com/power-of-rxjs-when-using-exponential-backoff-a4b8bde276b0)([pdf](./pdf/power-of-rxjs-when-using-exponential-backoff.pdf))
     
     - [RxJS: Avoiding takeUntil Leaks](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef)
     
