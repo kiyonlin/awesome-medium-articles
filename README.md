@@ -80,9 +80,22 @@
     
     - [RxJS: How to Use refCount](https://blog.angularindepth.com/rxjs-how-to-use-refcount-73a0c6619a4e)([pdf](./pdf/rxjs-how-to-use-refcount.pdf))
     
+    - [RxJS: Understanding Lettable Operators](https://blog.angularindepth.com/rxjs-understanding-lettable-operators-fe74dda186d3)([pdf](./pdf/rxjs-understanding-lettable-operators.pdf))
+    
+    - [RxJS: Understanding the publish and share Operators](https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635)([pdf](./pdf/rxjs-understanding-the-publish-and-share-operators.pdf))
+    
+    - [Debugging RxJS, Part 2: Logging](https://blog.angularindepth.com/debugging-rxjs-part-2-logging-56904459f144)([pdf](./pdf/debugging-rxjs-part-2-logging.pdf))
+    
+    - [Debugging RxJS, Part 1: Tooling](https://blog.angularindepth.com/debugging-rxjs-4f0340286dd3)([pdf](./pdf/debugging-rxjs.pdf))
+    
+    - [Practical RxJS In The Wild 🦁— Requests with concatMap() vs mergeMap() vs forkJoin() 🥊](https://blog.angularindepth.com/practical-rxjs-in-the-wild-requests-with-concatmap-vs-mergemap-vs-forkjoin-11e5b2efe293)([pdf](./pdf/practical-rxjs-in-the-wild-requests-with-concatmap-vs-mergemap-vs-forkjoin.pdf))
+    
     - Testing
         - [如何「畫圖」寫測試 - RxJS Marble Test](https://blog.jerry-hong.com/speaking/rxjs-marble-testing/)
+        
         - [RxJS: Testing with Fake Time](https://blog.angularindepth.com/rxjs-testing-with-fake-time-94114271eed2)([pdf](./pdf/rxjs-testing-with-fake-time.pdf))
+        
+        - [RxJS Marble Testing: RTFM](https://blog.angularindepth.com/rxjs-marble-testing-rtfm-a9a6cd3db758)([pdf](./pdf/rxjs-marble-testing-rtfm.pdf))
 
 - 编译器(`compiler`)
     - [Automatically upgrade lazy-loaded Angular modules for Ivy!](https://blog.angularindepth.com/automatically-upgrade-lazy-loaded-angular-modules-for-ivy-e760872e6084)([pdf](./pdf/automatically-upgrade-lazy-loaded-angular-modules-for-ivy.pdf))
@@ -103,6 +116,12 @@
     - [Dynamically Loading Components with Angular CLI](https://blog.angularindepth.com/dynamically-loading-components-with-angular-cli-92a3c69bcd28)([pdf](./pdf/dynamically-loading-components-with-angular-cli.pdf))
     
     - [Gentle introduction into compilers. Part 1: Lexical analysis and Scanner](https://blog.angularindepth.com/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner-733246be6738)([pdf](./pdf/gentle-introduction-into-compilers-part-1-lexical-analysis-and-scanner.pdf))
+    
+    - [A Deep, Deep, Deep, Deep, Deep Dive into the Angular Compiler](https://blog.angularindepth.com/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)([pdf](./pdf/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler.pdf))
+    
+    - [Configuring TypeScript compiler](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)([pdf](./pdf/configuring-typescript-compiler.pdf))
+    
+    - [Making your Angular 2 library statically analyzable for AoT](https://blog.angularindepth.com/making-your-angular-2-library-statically-analyzable-for-aot-e1c6f3ebedd5)([pdf](./pdf/making-your-angular-2-library-statically-analyzable-for-aot.pdf))
     
 - `HttpClient`
     - [Top 10 ways to use Interceptors in Angular](https://blog.angularindepth.com/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6)([pdf](./pdf/top-10-ways-to-use-interceptors-in-angular.pdf))
@@ -160,6 +179,14 @@
     
     - [The essential difference between pure and impure pipes in Angular and why that matters](https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068)([pdf](./pdf/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters.pdf))
     
+    - [What is `forwardRef` in Angular and why we need it](https://blog.angularindepth.com/what-is-forwardref-in-angular-and-why-we-need-it-6ecefb417d48)([pdf](./pdf/what-is-forwardref-in-angular-and-why-we-need-it.pdf))
+    
+    - [How to manually bootstrap an Angular application](https://blog.angularindepth.com/how-to-manually-bootstrap-an-angular-application-9a36ccf86429)([pdf](./pdf/how-to-manually-bootstrap-an-angular-application.pdf))
+    
+    - [Hooking into the Angular bootstrap process](https://blog.angularindepth.com/hooking-into-the-angular-bootstrap-process-36e82a01fba8)([pdf](./pdf/hooking-into-the-angular-bootstrap-process.pdf))
+    
+    - [Never again be confused when implementing ControlValueAccessor in Angular forms](https://blog.angularindepth.com/never-again-be-confused-when-implementing-controlvalueaccessor-in-angular-forms-93b9eee9ee83)([pdf](./pdf/never-again-be-confused-when-implementing-controlvalueaccessor-in-angular-forms.pdf))
+    
 - `Angular Library`
     - [How to Build a Component Library with Angular and Storybook](https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976)([pdf](./pdf/how-to-build-a-component-library-with-angular-and-storybook.pdf))
 
@@ -193,6 +220,14 @@
     - [Angular and Internet Explorer](https://blog.angularindepth.com/angular-and-internet-explorer-5e59bb6fb4e9)([pdf](./pdf/angular-and-internet-explorer.pdf))
     
     - [I reverse-engineered Zones (zone.js) and here is what I’ve found](https://blog.angularindepth.com/i-reverse-engineered-zones-zone-js-and-here-is-what-ive-found-1f48dc87659b)([pdf](./pdf/i-reverse-engineered-zones-zone-js-and-here-is-what-ive-found.pdf))
+    
+    - [Setting Up Angular from Scratch](https://blog.angularindepth.com/setting-up-angular-from-scratch-1f518c65d8ab)([pdf](./pdf/setting-up-angular-from-scratch.pdf))
+    
+    - [Avoiding common confusions with modules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)([pdf](./pdf/avoiding-common-confusions-with-modules-in-angular.pdf))
+    
+    - [Dijkstra was right — recursion should not be difficult](https://blog.angularindepth.com/learn-recursion-in-10-minutes-e3262ac08a1)([pdf](./pdf/learn-recursion-in-10-minutes.pdf))
+    
+    - [Everything you need to know about debugging Angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)([pdf](./pdf/everything-you-need-to-know-about-debugging-angular-applications.pdf))
     
 ## `A deep dive in the Vue.js source code`(深入了解`Vue.js`源代码)
 本系列逐行检查整个`Vue.js`源代码。

@@ -223,11 +223,6 @@ proxy-from-env@^1.0.0:
   resolved "https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.0.0.tgz#33c50398f70ea7eb96d21f7b817630a55791c7ee"
   integrity sha1-M8UDmPcOp+uW0h97gXYwpVeRx+4=
 
-puppeteer-tsd@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/puppeteer-tsd/-/puppeteer-tsd-0.0.2.tgz#40b5b227a46a43e5668e60de27df0ea722ebe6bb"
-  integrity sha512-o2cPEr2JKjPevmdMxgnGw/g6he69aainHYg7mOebaWOW6lzzvmJ1JS2alg3imYIROuF1eTci6nBNp8IR5JY+AQ==
-
 puppeteer@^1.16.0:
   version "1.16.0"
   resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-1.16.0.tgz#4b763d9ff4e69a4bb7a031c3393534214d54f27e"
