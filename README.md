@@ -233,5 +233,10 @@
     
     - [Everything you need to know about debugging Angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)([pdf](./pdf/everything-you-need-to-know-about-debugging-angular-applications.pdf))
     
+## Have Fun
+杂文收集。
+
+- [ngVikings, Beacons, and Fun with Web Bluetooth](https://medium.com/@urish/ngvikings-beacons-and-fun-with-web-bluetooth-5f2b1bdfff19)
+    
 ## `A deep dive in the Vue.js source code`(深入了解`Vue.js`源代码)
 本系列逐行检查整个`Vue.js`源代码。
