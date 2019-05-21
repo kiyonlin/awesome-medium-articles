@@ -1,7 +1,11 @@
 # `meduim`上的好文集合
 最近开始刷[medium.com](www.meduim.com)，发现了很多好文。整理起来分享给大家。
 
+> 注：部分文章来源并非`meduim`，但是和分类相关，所以会放在一起。
+
 因为[medium.com](www.meduim.com)被墙，所以所有的文章都会导出相应的`pdf`文件。
+
+> 注：导出的`pdf`无法展示`stackblitz`上的程序或者视频。
 
 ## `angular in depth`
 `angular in depth`是`medium`上的一个专栏，主要深挖`angular2+`。
