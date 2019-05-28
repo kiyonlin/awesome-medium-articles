@@ -147,6 +147,8 @@
     
     - [The Three Pillars of Angular Routing. Angular Router Series Introduction.](https://blog.angularindepth.com/the-three-pillars-of-angular-routing-angular-router-series-introduction-fb34e4e8758e)([pdf](./pdf/the-three-pillars-of-angular-routing-angular-router-series-introduction.pdf))
     
+- 指令(`directive`)
+    - [Having fun with Structural Directives in Angular 🏎](https://blog.angularindepth.com/having-fun-with-structural-directives-in-angular-69b4d229ad93)([pdf](./pdf/having-fun-with-structural-directives-in-angular.pdf))
     
 - `Angular`
     - [Angular Context: Easy Data-Binding for Nested Component Trees and the Router Outlet](https://blog.angularindepth.com/angular-context-easy-data-binding-for-nested-component-trees-and-the-router-outlet-a977efacd48)([pdf](./pdf/angular-context-easy-data-binding-for-nested-component-trees-and-the-router-outlet.pdf))
