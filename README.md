@@ -149,6 +149,7 @@
     
 - 指令(`directive`)
     - [Having fun with Structural Directives in Angular 🏎](https://blog.angularindepth.com/having-fun-with-structural-directives-in-angular-69b4d229ad93)([pdf](./pdf/having-fun-with-structural-directives-in-angular.pdf))
+    - [Understanding Angular Structural Directives](https://netbasal.com/understanding-angular-structural-directives-659acd0f67e)
     
 - `Angular`
     - [Angular Context: Easy Data-Binding for Nested Component Trees and the Router Outlet](https://blog.angularindepth.com/angular-context-easy-data-binding-for-nested-component-trees-and-the-router-outlet-a977efacd48)([pdf](./pdf/angular-context-easy-data-binding-for-nested-component-trees-and-the-router-outlet.pdf))
